@@ -1,1 +1,1 @@
-This project is aimed at creating a basic website with multiple pages. This will demonstrate ym ability to combine html elements and skills into a tangible product which will then be the basis for building css and javascript skills.
+This project is aimed at creating a basic website with multiple pages. This will demonstrate my ability to combine html elements and skills into a tangible product which will then be the basis for building css and javascript skills.
