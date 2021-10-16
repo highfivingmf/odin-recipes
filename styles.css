@@ -1,0 +1,23 @@
+html {
+    background-color: grey;
+}
+.headers {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 100px;
+    color: purple;
+    text-align: center;
+}
+.bullets {
+    color: black;
+}
+a:visited {
+    color: hotpink;
+}
+a:link {
+    color: lavender;
+}
+img {
+    width:auto;
+    height: 300px;
+    align-items: center;
+}
